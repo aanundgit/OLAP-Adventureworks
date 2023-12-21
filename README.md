@@ -1,2 +1,2 @@
-# OLTP-Adventureworks
-OLTP-Adventureworks
+# OLAP-Adventureworks
+OLAP-Adventureworks
